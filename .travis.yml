@@ -9,7 +9,7 @@ deploy:
   on:
     branch: main
 
-test vso
+test vso -2
 
 
 
