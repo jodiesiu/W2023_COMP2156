@@ -4,14 +4,14 @@
   "description": "Hello World",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Warning: No tests created yet.\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jodiesiu/W2023_COMP2156.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jodie",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jodiesiu/W2023_COMP2156/issues"
