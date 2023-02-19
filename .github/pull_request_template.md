@@ -13,4 +13,6 @@ Instructions for testing this fix.
 - [] Rebased with base branch
 - [] CI passed
 - [] Code quality passed
+- [] Have 10 commits
+- [] Have 3 files with valid name
 - [] Approved by peers
